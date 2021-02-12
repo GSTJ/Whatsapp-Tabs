@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@types/mongoose": "^5.7.34",
-    "apollo-server": "^2.5.1",
+    "apollo-server": "^2.14.2",
     "apollo-server-express": "^2.14.2",
     "aws-sdk": "^2.724.0",
     "axios": "^0.19.0",
